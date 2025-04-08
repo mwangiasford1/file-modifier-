@@ -1,3 +1,3 @@
 # file-modifier-
-how to create a file modifier in python 
-how to debug error's 
+How to create a file modifier in python 
+How to debug error's 
